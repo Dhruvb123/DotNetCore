@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chp5 - ActionMethods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+796d796982f5ab51b8591749a13fae3d6c3badc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20094959304836e24dbc8b90ff2a296ed66add96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chp5 - ActionMethods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chp5 - ActionMethods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
