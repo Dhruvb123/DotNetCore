@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chp1 - Directory Structure.props" />
+</Project>

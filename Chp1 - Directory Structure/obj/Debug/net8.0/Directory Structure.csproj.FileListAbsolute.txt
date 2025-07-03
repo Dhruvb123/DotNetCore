@@ -1,0 +1,30 @@
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\appsettings.Development.json
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\appsettings.json
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\Directory Structure.staticwebassets.runtime.json
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\Directory Structure.exe
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\Directory Structure.deps.json
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\Directory Structure.runtimeconfig.json
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\Directory Structure.dll
+E:\DotNetCore\Directory Structure\bin\Debug\net8.0\Directory Structure.pdb
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.AssemblyInfoInputs.cache
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.AssemblyInfo.cs
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.csproj.CoreCompileInputs.cache
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.RazorAssemblyInfo.cache
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.RazorAssemblyInfo.cs
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.Directory Structure.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.build.Directory Structure.props
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Directory Structure.props
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Directory Structure.props
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\scopedcss\bundle\Directory Structure.styles.css
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\scopedcss\projectbundle\Directory Structure.bundle.scp.css
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.dll
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\refint\Directory Structure.dll
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.pdb
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\Directory Structure.genruntimeconfig.cache
+E:\DotNetCore\Directory Structure\obj\Debug\net8.0\ref\Directory Structure.dll

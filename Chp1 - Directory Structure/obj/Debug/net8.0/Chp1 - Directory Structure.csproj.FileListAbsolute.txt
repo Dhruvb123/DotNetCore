@@ -1,0 +1,31 @@
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\appsettings.Development.json
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\appsettings.json
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\Chp1 - Directory Structure.staticwebassets.runtime.json
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\Chp1 - Directory Structure.exe
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\Chp1 - Directory Structure.deps.json
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\Chp1 - Directory Structure.runtimeconfig.json
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\Chp1 - Directory Structure.dll
+E:\DotNetCore\Chp1 - Directory Structure\bin\Debug\net8.0\Chp1 - Directory Structure.pdb
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.AssemblyInfoInputs.cache
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.AssemblyInfo.cs
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.csproj.CoreCompileInputs.cache
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.RazorAssemblyInfo.cache
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.RazorAssemblyInfo.cs
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.sourcelink.json
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.Chp1 - Directory Structure.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.build.Chp1 - Directory Structure.props
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chp1 - Directory Structure.props
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chp1 - Directory Structure.props
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\scopedcss\bundle\Chp1 - Directory Structure.styles.css
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\scopedcss\projectbundle\Chp1 - Directory Structure.bundle.scp.css
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.dll
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\refint\Chp1 - Directory Structure.dll
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.pdb
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\Chp1 - Directory Structure.genruntimeconfig.cache
+E:\DotNetCore\Chp1 - Directory Structure\obj\Debug\net8.0\ref\Chp1 - Directory Structure.dll

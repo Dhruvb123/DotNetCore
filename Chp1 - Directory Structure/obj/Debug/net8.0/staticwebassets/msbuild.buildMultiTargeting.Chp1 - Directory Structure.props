@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chp1 - Directory Structure.props" />
+</Project>

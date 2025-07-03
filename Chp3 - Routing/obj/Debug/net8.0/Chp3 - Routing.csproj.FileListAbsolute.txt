@@ -1,0 +1,31 @@
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\appsettings.Development.json
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\appsettings.json
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\Chp3 - Routing.staticwebassets.runtime.json
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\Chp3 - Routing.exe
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\Chp3 - Routing.deps.json
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\Chp3 - Routing.runtimeconfig.json
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\Chp3 - Routing.dll
+E:\DotNetCore\Chp3 - Routing\bin\Debug\net8.0\Chp3 - Routing.pdb
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.AssemblyInfoInputs.cache
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.AssemblyInfo.cs
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.csproj.CoreCompileInputs.cache
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.RazorAssemblyInfo.cache
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.RazorAssemblyInfo.cs
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\staticwebassets\msbuild.Chp3 - Routing.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\staticwebassets\msbuild.build.Chp3 - Routing.props
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chp3 - Routing.props
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chp3 - Routing.props
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\scopedcss\bundle\Chp3 - Routing.styles.css
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\scopedcss\projectbundle\Chp3 - Routing.bundle.scp.css
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.dll
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\refint\Chp3 - Routing.dll
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.pdb
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.genruntimeconfig.cache
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\ref\Chp3 - Routing.dll
+E:\DotNetCore\Chp3 - Routing\obj\Debug\net8.0\Chp3 - Routing.sourcelink.json
