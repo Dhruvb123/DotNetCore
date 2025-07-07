@@ -1,0 +1,31 @@
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\appsettings.Development.json
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\appsettings.json
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\Chp6 - Views in MVC.staticwebassets.runtime.json
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\Chp6 - Views in MVC.exe
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\Chp6 - Views in MVC.deps.json
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\Chp6 - Views in MVC.runtimeconfig.json
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\Chp6 - Views in MVC.dll
+E:\DotNetCore\Views in MVC\bin\Debug\net8.0\Chp6 - Views in MVC.pdb
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.AssemblyInfoInputs.cache
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.AssemblyInfo.cs
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.csproj.CoreCompileInputs.cache
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.RazorAssemblyInfo.cache
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.RazorAssemblyInfo.cs
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.sourcelink.json
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\staticwebassets\msbuild.Chp6 - Views in MVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.Chp6 - Views in MVC.props
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Chp6 - Views in MVC.props
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Chp6 - Views in MVC.props
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\scopedcss\bundle\Chp6 - Views in MVC.styles.css
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\scopedcss\projectbundle\Chp6 - Views in MVC.bundle.scp.css
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.dll
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\refint\Chp6 - Views in MVC.dll
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.pdb
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\Chp6 - Views in MVC.genruntimeconfig.cache
+E:\DotNetCore\Views in MVC\obj\Debug\net8.0\ref\Chp6 - Views in MVC.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chp6 - Views in MVC.props" />
+</Project>
