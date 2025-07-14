@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chp7 - Master Layout in DotNetCore.props" />
+</Project>

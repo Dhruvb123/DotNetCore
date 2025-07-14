@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Chp7___Master_Layout_in_DotNetCore
 build_property.RootNamespace = Chp7___Master_Layout_in_DotNetCore
@@ -17,6 +25,14 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = E:\DotNetCore\Chp7 - Master Layout in DotNetCore
 build_property._RazorSourceGeneratorDebug = 
+
+[E:/DotNetCore/Chp7 - Master Layout in DotNetCore/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/DotNetCore/Chp7 - Master Layout in DotNetCore/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
 
 [E:/DotNetCore/Chp7 - Master Layout in DotNetCore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=

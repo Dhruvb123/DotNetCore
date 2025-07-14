@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chp7 - Master Layout in DotNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ddb144522fb9138541fc7d1df8f0d601027e0ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78ce145e638ae9cbbb48bfa5ff758f0808051c08")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chp7 - Master Layout in DotNetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chp7 - Master Layout in DotNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

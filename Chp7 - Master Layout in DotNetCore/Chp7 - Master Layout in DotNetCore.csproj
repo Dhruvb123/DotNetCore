@@ -7,4 +7,8 @@
     <RootNamespace>Chp7___Master_Layout_in_DotNetCore</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
 </Project>
